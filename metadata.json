@@ -1,0 +1,5 @@
+{
+  "name": "NextTauriApp",
+  "description": "A robust Next.js + Tauri v2 application following Zuko's Ruleset.",
+  "requestFramePermissions": []
+}
