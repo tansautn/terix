@@ -16,3 +16,7 @@
    + _"Ờ, đứng đấy đợi tao build xong t gửi `exe` cho. 2 phút ~"_
 - **Vibezed**: > Thêm tính năng, sửa lỗi, các kiểu con đà điểu ngay trên Google AI Studio's Sandbox. Prompt xong phát nhận file luôn, xem luôn trên trình duyệt. _"Moé, nó tiện"_
 - **Inspired**: > Mix chung nhau ?; Lêu lêu, con lai ?; Thằng lưỡng cư ?. _"Vì tất cả CHỮ CÁI đã xuất hiện !"_
+
+### Dùng thế nào ?
+
+- **From Author:** dự án mới, giờ bận cũng chưa có làm docs được. Nhưng có cái hướng dẫn run Dev server ở [setup-guide](./docs/architecture/initial-setup.md) đó. Vô đó dựng đc môi trường dev là sẽ có cái overview về cách dùng và cách hoạt động, cùng khả năng (không giới hạn).
